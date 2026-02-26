@@ -38,7 +38,7 @@ return {
 				"emmet_ls",
 				"prismals",
 				"jdtls",
-				"ocamlformat",
+				"ocamllsp",
 			},
 		})
 
