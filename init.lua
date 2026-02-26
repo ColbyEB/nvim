@@ -1,2 +1,2 @@
-require("rxue.core")
-require("rxue.lazy")
+require("colbyeb.core")
+require("colbyeb.lazy")
